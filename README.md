@@ -1,2 +1,13 @@
-# password-generator
-This program will help you create a strong password, but most importantly, don't forget to save it somewhere.
+# Password Generator
+
+A simple Python program that generates random passwords.
+
+## How to use
+
+1. Run `password_generator.py`
+2. Enter the password length
+3. The program will generate a random password
+
+## Author
+
+Farrukh
